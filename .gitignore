@@ -1,3 +1,5 @@
 .gitignore
 .idea/
 venv/
+*__pycache__/
+*.sqlite3
